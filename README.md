@@ -1,2 +1,2 @@
-# cursoemvideo-html5
- Material do Curso de HTML5 e CSS3 do Curso em Vídeo
+#Curso Gratis de Git e Github
+ Material do **Curso de Git e GitHub**, disponível gratuidamente no canal do *youtube*.
